@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod vincent:my_dir *
+chown vincent:my_dir *
